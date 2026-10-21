@@ -1,0 +1,4 @@
+name: hermes-ovms
+kind: model-provider
+version: 0.1.0
+description: OpenVINO Model Server provider for Hermes Agent
